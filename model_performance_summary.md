@@ -6,6 +6,6 @@ The closing price model worked best with a window size of 1 while the FNG model 
 
 The Closing Price model tracks the actual values better over time as seen by the plots below.
 
-![closing_price_plot.jpg](Images/closing_price_plot.jpg)
+![closing_price_plot.jpg](images/closing_price_plot.jpg)
 
-![fng_plot.jpg](Images/fng_plot.jpg)
+![fng_plot.jpg](images/fng_plot.jpg)
